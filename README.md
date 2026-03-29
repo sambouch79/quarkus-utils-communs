@@ -61,7 +61,7 @@ public Response listAll(@BeanParam @Valid UserPageRequest req) {
 
 ## Requirements
 
-- Java 17+
+- Java 21+
 - Quarkus 3.x
 - `quarkus-micrometer-registry-prometheus` (for `@MeasuredEndpoint`)
 - `quarkus-hibernate-validator` (for Bean Validation annotations)
