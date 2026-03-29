@@ -1,4 +1,4 @@
-# quarkus-health-commons
+# quarkus-utils-commons
 
 Utilities for Quarkus REST APIs.
 
